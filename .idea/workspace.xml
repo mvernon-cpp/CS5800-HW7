@@ -4,26 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68bf651e-c63b-4ce3-b46e-821bd8d690a7" name="Changes" comment="Proxy design">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printouts/HW7_StructuralPatterns - Tagged.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/StyleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/Style_Arial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/Style_Calibri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/Style_Courier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flyweight/Style_Verdana.java" afterDir="false" />
+    <list default="true" id="68bf651e-c63b-4ce3-b46e-821bd8d690a7" name="Changes" comment="Flyweight design">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trafficsim/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trafficsim/TrafficSimulator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trafficsim/Truck.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trafficsim/Vehicle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trafficsim/VehicleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/proxy/MusicStreamingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/proxy/MusicStreamingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/proxy/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/proxy/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/proxy/SongProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/proxy/SongProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/proxy/SongService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/proxy/SongService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714165751538</updated>
       <workItem from="1714165752711" duration="9058000" />
-      <workItem from="1714246250016" duration="14414000" />
+      <workItem from="1714246250016" duration="18320000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -118,16 +109,36 @@
       <option name="project" value="LOCAL" />
       <updated>1714174602300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Flyweight design">
+      <option name="closed" value="true" />
+      <created>1714261379568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714261379568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <MESSAGE value="Proxy design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proxy design" />
+    <MESSAGE value="Flyweight design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flyweight design" />
   </component>
 </project>
